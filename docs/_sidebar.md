@@ -13,3 +13,6 @@
       - [2.5.1. Cronograma](/docs/Modelagem/2.5.1.Cronograma.md)
       - [2.5.2. Reuniões e Atas](/docs/Modelagem/2.5.2.ReunioesAtas.md)
       - [2.5.3. Product Backlog](/docs/Modelagem/2.5.3.ProductBacklog.md)
+      -[2.5.4 DiagramaEntidadeRelacionamento](/docs/Modelagem/2.5.4.DiagramaEntidadeRelacionamento.md)
+      -[2.5.5 DiagramaLogico](/docs/Modelagem/2.5.5.DiagramaLogico.md)
+      -[2.5.6 Ferramentas](/docs/Modelagem/2.5.6.Ferramentas.md)
