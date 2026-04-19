@@ -3,7 +3,7 @@
 - [Home](/Modelagem)
 
 - **Modelagem**
-  - [2. Desenho de Software (Modelagem)](/Modelagem/2.Modelagem.md)
+  - [2. Desenho de Software](/Modelagem/2.Modelagem.md)
     - [2.1. Modelagem UML Estática](/Modelagem/2.1.ModelagemEstatica.md)
       - [2.1.1. Diagrama de componentes](/Modelagem/2.1.1.DiagramaComponente.md)
       - [2.1.2. Diagrama de classes](/Modelagem/2.1.2.DiagramaClasses.md)
@@ -15,8 +15,8 @@
     - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
       - [2.3.1. Diagrama de casos de uso](/Modelagem/2.3.1.DiagramaCasosDeUso.md)
       - [2.3.2. Diagrama de pacotes](docs/Modelagem/2.3.2.DiagramaPacotes.md)
-    - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
-    - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
+    - [2.4. Participações](/Modelagem/2.4.ParticipacoesModelagem.md)
+    - [2.5. Iniciativas Extras](/Modelagem/2.5.IniciativasExtras.md)
       - [2.5.1. Cronograma](/Modelagem/2.5.1.Cronograma.md)
       - [2.5.2. Reuniões e Atas](/Modelagem/2.5.2.ReunioesAtas.md)
       - [2.5.3. Product Backlog](Modelagem/2.5.3.Backlog.md)
