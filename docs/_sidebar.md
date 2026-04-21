@@ -26,3 +26,5 @@
   - Atas
     - [07-04 - Reunião inicial](/atas/07-04.md)
     - [14-04 - Diagrama de classes](/atas/14-04.md)
+    - [20-04 - Casos de uso](/atas/20-04.md)
+    - [21-04 - Diagrama de pacotes](/atas/21-04.md)
