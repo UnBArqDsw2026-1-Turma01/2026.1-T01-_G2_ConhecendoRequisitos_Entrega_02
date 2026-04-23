@@ -1,6 +1,6 @@
 <!-- Modelagem/_sidebar.md -->
 
-- [Home](/Modelagem)
+- [Home](/Modelagem/Home.md)
 
 - **Modelagem**
   - [2. Desenho de Software](/Modelagem/2.Modelagem.md)
