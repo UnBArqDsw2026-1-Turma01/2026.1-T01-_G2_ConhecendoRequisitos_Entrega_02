@@ -12,7 +12,7 @@
       - [2.2.1. Diagrama colaboração](/Modelagem/2.2.1.DiagramaColaboracao.md)
       - [2.2.2. Diagrama de estados](/Modelagem/2.2.2.DiagramaEstados.md)
       - [2.2.3. Diagrama de atividades](/Modelagem/2.2.3.DiagramaAtividades.md)
-    - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
+    - [2.3. Notações UML](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
       - [2.3.1. Diagrama de casos de uso](/Modelagem/2.3.1.DiagramaCasosDeUso.md)
       - [2.3.2. Diagrama de pacotes](docs/Modelagem/2.3.2.DiagramaPacotes.md)
     - [2.4. Participações](/Modelagem/2.4.ParticipacoesModelagem.md)
@@ -26,3 +26,5 @@
   - Atas
     - [07-04 - Reunião inicial](/atas/07-04.md)
     - [14-04 - Diagrama de classes](/atas/14-04.md)
+    - [20-04 - Casos de uso](/atas/20-04.md)
+    - [21-04 - Diagrama de pacotes](/atas/21-04.md)
