@@ -10,7 +10,7 @@
       - [2.1.3. Diagrama de implantação](/Modelagem/2.1.3.DiagramaImplantacao.md)
     - [2.2. Modelagem UML Dinâmica](/Modelagem/2.2.ModelagemDinamica.md)
       - [2.2.1. Diagrama colaboração](/Modelagem/2.2.1.DiagramaColaboracao.md)
-      - [2.2.2. Diagrama de estados](/Modelagem/2.2.2.DiagramaEstados.md)
+      - [2.2.2. Diagrama de estados](/Modelagem/2.2.2.DiagramaDeEstados.md)
       - [2.2.3. Diagrama de atividades](/Modelagem/2.2.3.DiagramaAtividades.md)
     - [2.3. Notações UML](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
       - [2.3.1. Diagrama de casos de uso](/Modelagem/2.3.1.DiagramaCasosDeUso.md)
