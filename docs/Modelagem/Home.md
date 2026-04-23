@@ -2,22 +2,22 @@
 
 **Código da Disciplina:** FGA0208  
 **Número do Grupo:** 02  
-**Entrega:** 02  
+**Entrega:** 02
 
 ## Alunos
 
-| Matrícula  | Aluno               |
-| ---------- | ------------------- |
-| 23/1027032 | Arthur Oliveira     |
-| 19/0042303 | Carlos Nascimento   |
-| 23/1037665 | Daniel Nascimento   |
-| 22/2006650 | Davi Sousa          |
-| 23/1026699 | Eduarda Rodrigues   |
-| 23/1037692 | Isabella Choukaira  |
-| 23/1035455 | Leticia Jesus       |
-| 20/0067095 | Lucas Avelar        |
-| 23/1038303 | Yan Aguiar          |
-| 23/1012316 | Yasmin Nascimento   |
+| Matrícula  | Aluno              |
+| ---------- | ------------------ |
+| 23/1027032 | Arthur Oliveira    |
+| 19/0042303 | Carlos Nascimento  |
+| 23/1037665 | Daniel Nascimento  |
+| 22/2006650 | Davi Sousa         |
+| 23/1026699 | Eduarda Rodrigues  |
+| 23/1037692 | Isabella Choukaira |
+| 23/1035455 | Leticia Jesus      |
+| 20/0067095 | Lucas Avelar       |
+| 23/1038303 | Yan Aguiar         |
+| 23/1012316 | Yasmin Nascimento  |
 
 ## Sobre
 
@@ -37,15 +37,15 @@ A plataforma foi estruturada com base em **trilhas de aprendizado** e **microlea
 
 ![Diagrama de Implantação](../images/DiagramaImplantacao.png)
 
-### Diagrama Entidade-Relacionmento 
+### Diagrama Entidade-Relacionmento
 
 ![Diagrama Entidade-Relacionmento](../images/DER.png)
 
 ## Há algo a ser executado?
 
-( ) SIM  
+( ) SIM
 
-(X) NÃO  
+(X) NÃO
 
 ## Informações Complementares
 
@@ -53,6 +53,6 @@ Nenhuma informação complementar.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor(es)          | Revisor(es)                                     | Detalhes da Revisão        |
-| ------ | ---------- | -------------------- | ------------------ | ----------------------------------------------- | -------------------------- |
-| 1.0    | 23/04/2026 | Criação do Documento | [Yasmin Nascimento](https://github.com/Yasm1nNasc1mento) | [Yan Matheus](https://github.com/Yanmatheus0812) | Documento inicial criado   |
+| Versão | Data  | Descrição            | Autor(es)                                                | Revisor(es)                                      | Detalhes da Revisão      |
+| ------ | ----- | -------------------- | -------------------------------------------------------- | ------------------------------------------------ | ------------------------ |
+| 1.0    | 23/04 | Criação do Documento | [Yasmin Nascimento](https://github.com/Yasm1nNasc1mento) | [Yan Matheus](https://github.com/Yanmatheus0812) | Documento inicial criado |
