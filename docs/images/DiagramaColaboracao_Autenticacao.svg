@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 520" font-family="Arial, Helvetica, sans-serif">
+  <!-- Background -->
+  <rect width="920" height="520" fill="white" stroke="black" stroke-width="2"/>
+
+  <!-- Title -->
+  <rect x="15" y="10" width="230" height="28" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="25" y="29" font-size="13" font-weight="bold">Interação Autenticação</text>
+
+  <!-- Actor: Usuario -->
+  <!-- Head -->
+  <circle cx="70" cy="280" r="15" fill="none" stroke="black" stroke-width="2"/>
+  <!-- Body -->
+  <line x1="70" y1="295" x2="70" y2="340" stroke="black" stroke-width="2"/>
+  <!-- Arms -->
+  <line x1="45" y1="315" x2="95" y2="315" stroke="black" stroke-width="2"/>
+  <!-- Left leg -->
+  <line x1="70" y1="340" x2="50" y2="370" stroke="black" stroke-width="2"/>
+  <!-- Right leg -->
+  <line x1="70" y1="340" x2="90" y2="370" stroke="black" stroke-width="2"/>
+  <text x="48" y="392" font-size="14" font-weight="bold">Usuário</text>
+
+  <!-- Object: :Login -->
+  <rect x="220" y="210" width="140" height="45" rx="20" ry="20" fill="white" stroke="black" stroke-width="2"/>
+  <text x="265" y="238" font-size="14" font-weight="bold" text-decoration="underline">:Login</text>
+
+  <!-- Object: :Sistema -->
+  <rect x="560" y="70" width="150" height="45" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="555" y="65" width="150" height="45" fill="white" stroke="black" stroke-width="2"/>
+  <text x="600" y="93" font-size="14" font-weight="bold" text-decoration="underline">:Sistema</text>
+
+  <!-- Object: :Recuperacao -->
+  <rect x="560" y="210" width="160" height="45" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="555" y="205" width="160" height="45" fill="white" stroke="black" stroke-width="2"/>
+  <text x="585" y="233" font-size="14" font-weight="bold" text-decoration="underline">:Recuperacao</text>
+
+  <!-- Object: :Cadastro -->
+  <rect x="220" y="410" width="150" height="45" rx="20" ry="20" fill="white" stroke="black" stroke-width="2"/>
+  <text x="258" y="438" font-size="14" font-weight="bold" text-decoration="underline">:Cadastro</text>
+
+  <!-- Link: Usuario -> :Login -->
+  <line x1="95" y1="290" x2="220" y2="232" stroke="black" stroke-width="1.5"/>
+  <!-- Arrow -->
+  <polygon points="220,232 208,226 210,236" fill="black"/>
+  <!-- Message 1 -->
+  <text x="105" y="245" font-size="12" font-style="italic">1: entrar_conta()</text>
+
+  <!-- Link: :Login -> :Sistema -->
+  <line x1="310" y1="210" x2="580" y2="110" stroke="black" stroke-width="1.5"/>
+  <!-- Arrow -->
+  <polygon points="580,110 567,108 571,118" fill="black"/>
+  <!-- Message 1.1 -->
+  <text x="350" y="145" font-size="12" font-style="italic">1.1: validar_credencial()</text>
+
+  <!-- Link: :Login -> :Recuperacao -->
+  <line x1="360" y1="232" x2="555" y2="227" stroke="black" stroke-width="1.5"/>
+  <!-- Arrow -->
+  <polygon points="555,227 542,222 543,233" fill="black"/>
+  <!-- Message 1.2 -->
+  <text x="385" y="260" font-size="12" font-style="italic">1.2: recuperar_senha()</text>
+
+  <!-- Link: :Recuperacao -> :Sistema -->
+  <line x1="690" y1="205" x2="690" y2="110" stroke="black" stroke-width="1.5"/>
+  <!-- Arrow -->
+  <polygon points="690,110 684,123 696,123" fill="black"/>
+  <!-- Message 1.2.1 -->
+  <text x="700" y="165" font-size="12" font-style="italic">1.2.1: validar_credencial()</text>
+
+  <!-- Link: Usuario -> :Cadastro -->
+  <line x1="95" y1="345" x2="220" y2="430" stroke="black" stroke-width="1.5"/>
+  <!-- Arrow -->
+  <polygon points="220,430 207,425 210,435" fill="black"/>
+  <!-- Message 2 -->
+  <text x="60" y="420" font-size="12" font-style="italic">2: cadastrar_conta()</text>
+
+  <!-- Link: :Cadastro -> :Sistema (via horizontal then up) -->
+  <line x1="370" y1="432" x2="620" y2="432" stroke="black" stroke-width="1.5"/>
+  <line x1="620" y1="432" x2="620" y2="110" stroke="black" stroke-width="1.5"/>
+  <!-- Arrow -->
+  <polygon points="620,110 614,123 626,123" fill="black"/>
+  <!-- Message 2.1 -->
+  <text x="410" y="422" font-size="12" font-style="italic">2.1: validar_credencial()</text>
+</svg>
